@@ -60,5 +60,10 @@ namespace Week05
             return num1 / num2;
         }
 
+         public static double QuadNumbers(double a, double b, double c)
+        {
+            return  -b + ;
+        }
+
     }
 }
