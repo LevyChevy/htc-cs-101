@@ -9,7 +9,7 @@ namespace Week03
           Console.WriteLine("Guess a number between 1 and 10.");
 
         int num = Convert.ToInt32(Console.ReadLine());
-
+ 
         if(num > 4){
             Console.WriteLine("Too High");
         }
